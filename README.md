@@ -10,6 +10,7 @@ I’m interested in making useful capabilities accessible to small businesses an
 
 | Project | What you’ll find | Explore |
 | --- | --- | --- |
+| **Buildmine — personal-site starter** | A free browser-local builder with three styles, private project backups, reviewed public exports, and a complete MIT-licensed website kit. Includes source, tests and a GitHub Pages publishing guide. | [Build yours](https://drewcleaver.com/buildmine/?utm_source=github&utm_medium=referral&utm_campaign=profile&utm_content=buildmine) · [Starter code](https://github.com/drewcleaver17/drewcleaver.com/tree/main/starter) · [Fictional demo](https://drewcleaver.com/p/alex.rivera.example/) |
 | **Personal website** | My background and work, with an Astro implementation and GitHub Pages publishing workflow available to inspect. | [Website](https://drewcleaver.com/?utm_source=github&utm_medium=referral&utm_campaign=profile&utm_content=website) · [Code](https://github.com/drewcleaver17/drewcleaver.com) |
 | **Workplace Clarity** | A browser-based educational tool for reflecting on workplace experiences. | [Try it](https://edu.drewcleaver.com/workplace-clarity/) · [Code](https://github.com/drewcleaver17/edu-drewcleaver) |
 | **Catalog interface** | A React project exploring search, filtering, browser state, and shareable product selections. Includes focused tests and implementation documentation. | [Code](https://github.com/drewcleaver17/herban-bud-catalog) |
