@@ -1,31 +1,19 @@
 # Drew Cleaver
 
-Founder and inventor of **Higher Hangers**. Business operator building practical tools for commerce, work, and learning.
-
-My background spans inventing a consumer product, running an e-commerce business, and technical B2B sales. I use AI-assisted development to turn operational problems into usable software and clear resources.
-
-I’m interested in making useful capabilities accessible to small businesses and individuals: clearer workflows, better information, and tools people can understand and adapt.
+I founded **Higher Hangers** and have worked across consumer products, multichannel commerce, technical B2B sales, and business operations. I spot friction in a workflow, define a useful solution, and use AI-assisted development to build and improve it.
 
 ## Selected work
 
-| Project | What you’ll find | Explore |
+| Project | What it helps someone do | My role and status |
 | --- | --- | --- |
-| **Buildmine — personal-site starter** | A free browser-local builder with three styles, private project backups, reviewed public exports, and a complete MIT-licensed website kit. Includes source, tests and a GitHub Pages publishing guide. | [Build yours](https://drewcleaver.com/buildmine/?utm_source=github&utm_medium=referral&utm_campaign=profile&utm_content=buildmine) · [Starter code](https://github.com/drewcleaver17/drewcleaver.com/tree/main/starter) · [Fictional demo](https://drewcleaver.com/p/alex.rivera.example/) |
-| **Personal website** | My background and work, with an Astro implementation and GitHub Pages publishing workflow available to inspect. | [Website](https://drewcleaver.com/?utm_source=github&utm_medium=referral&utm_campaign=profile&utm_content=website) · [Code](https://github.com/drewcleaver17/drewcleaver.com) |
-| **Workplace Clarity** | A browser-based educational tool for reflecting on workplace experiences. | [Try it](https://edu.drewcleaver.com/workplace-clarity/) · [Code](https://github.com/drewcleaver17/edu-drewcleaver) |
-| **Catalog interface** | A React project exploring search, filtering, browser state, and shareable product selections. Includes focused tests and implementation documentation. | [Code](https://github.com/drewcleaver17/herban-bud-catalog) |
+| **[Buildmine](https://drewcleaver.com/buildmine/)** · [source and MIT-licensed starter](https://github.com/drewcleaver17/drewcleaver.com/tree/main/starter) | Turn a résumé or blank page into an editable personal site, review what will be public, and download a portable website kit. [See a fictional example](https://drewcleaver.com/p/alex.rivera.example/). | I defined the product and publishing workflow and iterated on its implementation with AI assistance. Working browser-based tool; the starter kit is MIT licensed. |
+| **[Wholesale catalog and RFQ builder](https://herban.drewcleaver.com)** · [source](https://github.com/drewcleaver17/herban-bud-catalog) | Browse products, compare prices, select quantities, and copy a request for quote to send yourself. It does not submit an order or process payment. | I translated a B2B sales workflow into a deployed interface, with AI-assisted development. Working application; this repository has no general open-source license. |
+| **[Workplace Clarity](https://edu.drewcleaver.com/workplace-clarity/)** · [source](https://github.com/drewcleaver17/edu-drewcleaver) | Reflect privately on workplace experiences and find language for further learning. Educational, not legal advice. | I shaped the purpose and worker-first experience and built the browser-based tool with AI assistance. Working educational tool; MIT licensed. |
 
-## How I approach the work
+The [source for my personal website](https://github.com/drewcleaver17/drewcleaver.com) is also public.
 
-- Start with a specific person, task, and operating constraint.
-- Make assumptions visible and distinguish a concept from a working implementation.
-- Use AI to assist research, specification, implementation, and iteration.
-- Check behavior, document limitations, and improve from real feedback.
+## How I work
 
-My focus is product and operational judgment. Individual repositories describe their implementation and reuse terms; public source does not mean every project has an open-source license.
+I start with the person, task, and operating constraint. I use AI to help research, specify, implement, and test, while making the product decisions and reviewing behavior and limitations. Public code and a live demo show what exists; they do not establish adoption or business results.
 
-## Useful contributions welcome
-
-I welcome reproducible bug reports, clearer documentation, accessibility improvements, and examples of how these tools could better serve their users. Please use fictional data in public issues.
-
-[Learn more or get in touch →](https://drewcleaver.com/hello/?utm_source=github&utm_medium=referral&utm_campaign=profile&utm_content=website)
+[Learn more or get in touch](https://drewcleaver.com/hello/)
